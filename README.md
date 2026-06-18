@@ -259,15 +259,13 @@ Medical decisions should always be made by qualified healthcare professionals.
 
 ## 👨‍💻 Author
 
-**Syed Wali Hussain Rizvi**
+**Mahnoor Zahra**
 
-- AI Engineer
-- Lecturer of Computer Science
+- Computer Science Student (5th Semester Project)
 
 ### Connect With Me
 
-- GitHub: *(Add Your GitHub Profile Link)*
-- LinkedIn: *(Add Your LinkedIn Profile Link)*
+- LinkedIn: *www.linkedin.com/in/mahnoorzahra110*
 
 ---
 
